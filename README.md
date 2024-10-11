@@ -6,7 +6,12 @@ This project focuses on the development of a Convolutional Neural Network (CNN) 
 ## View Project Presentation Below:
 [View Project Presentation](CNN_facial_expression_classification_research_presentation.pdf)
 
-
+## Datasets Used
+Datasets provided from Kaggle:
+- train_data.csv - the training data
+- train_target.csv - the corresponding training targets
+- test_data.csv - the testing data
+  
 ## Technologies Used
 - **Python**: Primary programming language
 - **PyTorch**: Used for building and training the CNN
