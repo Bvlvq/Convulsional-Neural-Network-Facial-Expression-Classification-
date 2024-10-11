@@ -34,5 +34,3 @@ To replicate or contribute to this project, follow these steps:
 ## Contributing
 Contributions to the project are welcome! To contribute, please fork the repository, make your changes, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
